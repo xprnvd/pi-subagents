@@ -1,0 +1,2 @@
+.github/workflows/test.yml merge=ours
+.github/workflows/release.yml merge=ours
